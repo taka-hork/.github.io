@@ -52,4 +52,5 @@ header {
   height:100px;
   padding: 180px 0;
   background-image: url(コンタクトシート-001.jpg);
+  background-size: cover;
 }
